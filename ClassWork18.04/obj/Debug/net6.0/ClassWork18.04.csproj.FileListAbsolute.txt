@@ -1,0 +1,14 @@
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\bin\Debug\net6.0\ClassWork18.04.exe
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\bin\Debug\net6.0\ClassWork18.04.deps.json
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\bin\Debug\net6.0\ClassWork18.04.runtimeconfig.json
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\bin\Debug\net6.0\ClassWork18.04.dll
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\bin\Debug\net6.0\ClassWork18.04.pdb
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\obj\Debug\net6.0\ClassWork18.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\obj\Debug\net6.0\ClassWork18.04.AssemblyInfoInputs.cache
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\obj\Debug\net6.0\ClassWork18.04.AssemblyInfo.cs
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\obj\Debug\net6.0\ClassWork18.04.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\obj\Debug\net6.0\ClassWork18.04.dll
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\obj\Debug\net6.0\refint\ClassWork18.04.dll
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\obj\Debug\net6.0\ClassWork18.04.pdb
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\obj\Debug\net6.0\ClassWork18.04.genruntimeconfig.cache
+C:\Users\ca.r214.03\Desktop\AB204-task\ClassWork18.04\ClassWork18.04\obj\Debug\net6.0\ref\ClassWork18.04.dll
